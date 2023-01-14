@@ -1,0 +1,3 @@
+Customer : 1 , Name : xxxx , income : 1000 , credit_score : 400 , rate : 5.0 , loan_staus : Loan not Approved 
+Customer : 2 , Name : xxxx , income : 6000 , credit_score : 600 , rate : 7.0 , loan_staus : Loan Approved 
+Customer : 3 , Name : xxxx , income : 6000 , credit_score : 400 , rate : 5.0 , loan_staus : Loan not Approved 
