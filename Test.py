@@ -1,11 +1,8 @@
 
-
-# something 
 def fun(a):
   r=[]
   for i in a:
-    if i%2!=0:
-      #print(i)
+    if i%2==0:
       r.append(i)
   r.sort()
   r.reverse()
